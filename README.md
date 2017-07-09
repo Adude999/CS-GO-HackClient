@@ -13,3 +13,20 @@ Has stuff like external access to ClientCmd_Unrestricted, BSP Parser, silent aim
 Credits to whoever, if you care msg me crying that I need to put you there.
 
 Some pics for the autistic children.
+
+
+# Edit:
+
+## Credits to A￱￲￳c￱￲￳￴￵￶￷e￱￲￳￴￵115:
+
+##How to make it undeteced:
+
+- Download VMProtect.
+
+- Open the dll in it.
+
+- Change the compilation type to ultra.
+
+- Press F5
+
+- = Undetected .dll or injector
