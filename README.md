@@ -23,10 +23,10 @@ Some pics for the autistic children.
 
 - Download VMProtect.
 
-- Open the dll in it.
+- Open the *.dll in it.
 
 - Change the compilation type to ultra.
 
 - Press F5
 
-- = Undetected .dll or injector
+- = Undetected *.dll or injector
