@@ -19,7 +19,7 @@ Some pics for the autistic children.
 
 ## Credits to A￱￲￳c￱￲￳￴￵￶￷e￱￲￳￴￵115:
 
-##How to make it undeteced:
+## How to make it undeteced:
 
 - Download VMProtect.
 
